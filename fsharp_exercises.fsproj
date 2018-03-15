@@ -46,6 +46,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <Compile Include="Average.fs" />
+    <Compile Include="Birthday.fs" />
+    <Compile Include="Greater.fs" />
+    <Compile Include="Hamburguers.fs" />
     <Compile Include="MathOperations.fs" />
     <Compile Include="Program.fs" />
     <Content Include="packages.config" />
